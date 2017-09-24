@@ -20,4 +20,5 @@ function divSelector() {
 
 function firstListItem() {
   var firstList = $('ul#pic-list li.firstChild')
+  return firstList
 }
